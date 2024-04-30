@@ -20,7 +20,7 @@ submit.addEventListener('click', function (event) {
 
         localStorage.setItem('userBlog', JSON.stringify(data));
 
-        window.location.href = "/bootcamp-assignment-4/blog.html"
+        window.location.href = "https://charleshut.github.io/bootcamp-assignment-4/blog.html"
     } else {
         window.alert("Username, Title, and Content cannot be empty")
     }
