@@ -1,0 +1,103 @@
+::before,
+::after {
+    box-sizing: border-box;
+}
+
+body {
+    background: url(https://images8.alphacoders.com/133/1339620.png);
+    background-size: cover;
+}
+
+h2 {
+    color: white;
+}
+
+.div-1 {
+    color: white;
+    text-decoration: underline;
+}
+
+.username {
+    color: white;
+}
+
+.title {
+    color: white;
+}
+
+.content {
+    color: white;
+}
+
+.dark-red-btn {
+    background-color: #600101;
+    /* Dark Red color */
+    color: white;
+    border-color: #600101;
+    /* Dark Red color */
+}
+
+header {
+    margin-top: 0;
+    margin-bottom: auto;
+    padding: 20px;
+    border-bottom: solid black 2px;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: #600101;
+}
+
+footer {
+    border-bottom: solid black 2px;
+    background-color: #600101;
+    height: 170px;
+    margin-bottom: -50px;
+    position: relative;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+.img-fluid {
+    position: relative;
+    right: -1050px;
+    top: -50px;
+    width: 75px;
+    height: 75px;
+
+}
+
+.P1 {
+    position: relative;
+    right: -1060px;
+    top: -40px;
+    color: white;
+    font: bold;
+    text-decoration: underline;
+}
+
+h3 {
+    position: relative;
+    right: -5px;
+    color: white;
+    text-decoration: underline;
+}
+
+.P2 {
+    position: relative;
+    right: 5px;
+    color: white;
+    top: -40px;
+    font: bold;
+    text-decoration: underline;
+    margin: auto;
+}
+
+.img-fluid-2{
+    position: relative;
+    top: -30px;
+    width: 75px;
+    height: 75px;
+}

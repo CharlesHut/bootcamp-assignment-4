@@ -1,0 +1,90 @@
+body {
+    background: url(https://images2.alphacoders.com/133/1339621.png);
+    background-size: cover;
+}
+
+.div-1 {
+    color: white;
+    text-decoration: underline;
+}
+
+
+header {
+    margin-top: 0;
+    margin-bottom: auto;
+    padding: 20px;
+    border-bottom: solid black 2px;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: #600101;
+}
+
+
+footer {
+    border-bottom: solid black 2px;
+    background-color: #600101;
+    height: 170px;
+    margin-bottom: -50px;
+    position: relative;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+.img-fluid {
+    position: relative;
+    right: -1050px;
+    top: -50px;
+    width: 75px;
+    height: 75px;
+
+}
+
+.P1 {
+    position: relative;
+    right: -1060px;
+    top: -40px;
+    color: white;
+    font: bold;
+    text-decoration: underline;
+
+}
+
+.h3-1 {
+    position: relative;
+    right: -5px;
+    color: white;
+    text-decoration: underline;
+}
+
+.P2 {
+    position: relative;
+    right: 5px;
+    color: white;
+    top: -40px;
+    font: bold;
+    text-decoration: underline;
+    margin: auto;
+}
+
+.img-fluid-2{
+    position: relative;
+    top: -30px;
+    width: 75px;
+    height: 75px;
+}
+
+.div-2 {
+    background-color: white;
+
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+h2{
+    color: white;
+}
