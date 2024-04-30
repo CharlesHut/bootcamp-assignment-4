@@ -20,7 +20,7 @@ submit.addEventListener('click', function (event) {
 
         localStorage.setItem('userBlog', JSON.stringify(data));
 
-        window.location.replace ("/blog.html")
+        window.location.replace ("/bootcamp-assignment-4/blog.html")
     } else {
         window.alert("Username, Title, and Content cannot be empty")
     }
